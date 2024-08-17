@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Carnivorous
+comment0.text=\r\n\ Clase\ Carnivorous\ donde\ genera\ flores\ carnivoras\ en\ diferentes\ espacios\ del\ garden\r\n\ \r\n\ @author\ Sofia\ Gil,\ Santiago\ Gualdron\ \r\n\ @version\ 1.0\r\n
+comment1.params=garden\ row\ column
+comment1.target=Carnivorous(Garden,\ int,\ int)
+comment1.text=\r\n\ Create\ a\ new\ carnivorous\ (row,\ column)\ in\ the\ garden.\r\n\ Every\ new\ carnivorous\ is\ going\ to\ be\ alive\ in\ the\ following\ state.\r\n\ @param\ garden\ donde\ se\ va\ a\ pintar\ la\ flor\r\n\ @param\ row\ del\ garden\r\n\ @param\ column\ del\ garden\r\n
+comment2.params=
+comment2.target=void\ move()
+comment2.text=\r\n\ la\ planta\ carnivora\ se\ mueve\ hacia\ la\ direccion\ de\ la\ flor\ mas\ cercana\ que\ tenga\r\n\ mientras\ esta\ flor\ no\ sea\ carnivora\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ indica\ como\ actua\ la\ flor\ carnivora\ cada\ vez\ que\ hay\ un\ Tic-tac\r\n
+numComments=4

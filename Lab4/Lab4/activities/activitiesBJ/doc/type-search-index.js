@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"domain","l":"Activity"},{"p":"test","l":"ActivityTest"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"domain","l":"Composed"},{"p":"test","l":"Log"},{"p":"domain","l":"Project"},{"p":"domain","l":"ProjectException"},{"p":"presentation","l":"ProjectManagerGUI"},{"p":"domain","l":"Simple"}];updateSearchResults();

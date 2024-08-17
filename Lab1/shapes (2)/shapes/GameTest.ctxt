@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=GameTest
+comment0.text=\r\n\ The\ test\ class\ GameTest.\r\n\r\n\ @author\ \ Santiago\ Gualdron-\ Sofia\ Gil\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=void\ testEstadoInicial()
+comment2.params=
+comment2.target=void\ testSubirPeronaje()
+comment3.params=
+comment3.target=void\ testmoverBote()
+comment4.params=
+comment4.target=void\ testBajarPersonaje()
+comment5.params=
+comment5.target=void\ testPerder()
+comment6.params=
+comment6.target=void\ testGanar()
+numComments=7

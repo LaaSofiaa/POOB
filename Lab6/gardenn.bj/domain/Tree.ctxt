@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Tree
+comment0.text=\r\n\ Clase\ Tree\ para\ dibujar\ cuadrados\ verdes\ que\ se\ van\ marchitando\ y\r\n\ regenerando\ cada\ cierto\ tiempo\r\n\ \r\n\ @author\ Sofia\ Gil,\ Santiago\ Gualdron\ \r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Tree()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Tree\r\n
+comment2.params=
+comment2.target=java.awt.Color\ getColor()
+comment2.text=\r\n\ @return\ Color\ el\ color\ que\ tiene\ actualmente\ el\ Tree\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ indica\ como\ actua\ el\ arbol\ cada\ vez\ que\ hay\ un\ Tic-tac\r\n
+numComments=4

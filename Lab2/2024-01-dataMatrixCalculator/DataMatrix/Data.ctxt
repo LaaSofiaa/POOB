@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Data
+comment0.text=\r\n\ Represents\ a\ simple\ data\:\ boolean\ ('TRUE',\ 'FALSE'),\ numerical\ (integer\ or\ real),\ character\ (any\ character,\ if\ it\ is\ a\ digit\ it\ is\ considered\ numeric)\r\n\r\n\ @author\ ECI-2024-01\r\n
+comment1.params=s
+comment1.target=Data(java.lang.String)
+comment1.text=\r\n\ Constructs\ a\ new\ Data\ given\ its\ value,\ If\ it\ is\ not\ possible,\ it\ is\ assumed\ FALSE\r\n
+comment2.params=b
+comment2.target=Data\ add(Data)
+comment2.text=\r\n\ Add\ the\ specified\ data\ with\ this\ data\r\n
+comment3.params=b
+comment3.target=Data\ sub(Data)
+comment3.text=\r\n\ Substract\ the\ specified\ data\ with\ this\ data\r\n
+comment4.params=
+comment4.target=char\ type()
+comment4.text=\r\n\ Returns\ the\ data\ type\r\n\ @returns\ 'b',\ 'n',\ or\ 'c'\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=
+comment6.target=java.lang.String\ string()
+comment6.text=\r\n\ Return\ the\ string\ used\ to\ create\ the\ Data\ without\ leading\ or\ trailing\ blanks\r\n
+comment7.params=obj2
+comment7.target=boolean\ equals(Data)
+comment7.text=\r\n\ retorna\ si\ 2\ Datas\ tienen\ el\ mismo\ valor.\r\n\ @return\ boolean\r\n
+numComments=8

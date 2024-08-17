@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\r\n\ La\ clase\ Game\ representa\ el\ juego\ de\ misioneros\ y\ canibales\ a\ trav\u00E9s\ de\ un\ r\u00EDo.\r\n\ El\ objetivo\ es\ llevar\ a\ todos\ los\ personajes\ de\ una\ orilla\ a\ otra\ sin\ violar\ ciertas\ restricciones.\r\n\ Esta\ clase\ gestiona\ la\ l\u00F3gica\ del\ juego\ y\ las\ interacciones\ entre\ los\ personajes\ y\ el\ bote.\r\n\ \r\n\ @author\ Sofia\ Gil,\ Santiago\ Gualdron\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Game()
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ Game.\ Inicializa\ el\ tablero\ y\ los\ contadores\ de\ cada\ lado.\r\n
+comment2.params=
+comment2.target=void\ estadoInicial()
+comment2.text=\r\n\ Configura\ el\ estado\ inicial\ del\ juego,\ colocando\ los\ personajes\ en\ sus\ posiciones\ iniciales.\r\n
+comment3.params=player
+comment3.target=void\ subirPersonaje(java.lang.String)
+comment3.text=\r\n\ Mueve\ un\ personaje\ desde\ una\ orilla\ al\ bote.\r\n\ @param\ player\ El\ personaje\ que\ se\ va\ a\ mover\ al\ bote.\r\n
+comment4.params=
+comment4.target=void\ moverBote()
+comment4.text=\r\n\ Mueve\ el\ bote\ de\ una\ orilla\ a\ otra,\ llevando\ consigo\ a\ los\ personajes\ que\ est\u00E9n\ dentro.\r\n
+comment5.params=player
+comment5.target=void\ bajarPersonaje(java.lang.String)
+comment5.text=\r\n\ Baja\ un\ personaje\ desde\ el\ bote\ a\ la\ orilla\ correspondiente.\r\n\ @param\ player\ El\ personaje\ que\ se\ va\ a\ bajar\ desde\ el\ bote.\r\n
+comment6.params=
+comment6.target=void\ perder()
+comment6.text=\r\n\ Verifica\ si\ se\ ha\ perdido\ el\ juego.\r\n
+numComments=7

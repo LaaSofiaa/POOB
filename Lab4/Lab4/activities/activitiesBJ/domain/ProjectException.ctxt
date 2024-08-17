@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ProjectException
+comment0.text=\r\n\ Genera\ diferentes\ mensajes\ de\ errores\ que\ pueden\ ocurrir\ durante\ la\ ejecucion\r\n\ @author\ Santiago\ Gualdron-Sofia\ Gil\r\n\ @version\ 1.0\r\n
+comment1.params=message
+comment1.target=ProjectException(java.lang.String)
+comment1.text=\r\n\ Constructor\ de\ ProjectException\r\n
+numComments=2

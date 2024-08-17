@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=BoatTest
+comment0.text=\r\n\ The\ test\ class\ BoatTest.\r\n\r\n\ @author\ \ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ testConstructor()
+comment2.params=
+comment2.target=void\ testMakeVisibleAndInvisible()
+comment3.params=
+comment3.target=void\ testMoveTo()
+comment4.params=
+comment4.target=void\ testRotate()
+comment5.params=
+comment5.target=void\ testChangeColor()
+comment6.params=
+comment6.target=void\ testChangeSize()
+numComments=7

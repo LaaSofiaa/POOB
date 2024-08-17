@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Thing
+comment0.text=\r\n\ Interfaz\ Thing\ que\ indica\ el\ shape,\ color\ y\ estado.\r\n\ \r\n\ @author\ Sofia\ Gil,\ Santiago\ Gualdron\ \r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ como\ actuan\ los\ objetos\ en\ el\ garden\r\n
+comment2.params=
+comment2.target=int\ shape()
+comment2.text=\r\n\ el\ tipo\ de\ shape\ que\ es\ cada\ Thing\r\n\ @return\ entero\ que\ indica\ si\ es\ round,\ square\ o\ flower\r\n
+comment3.params=
+comment3.target=java.awt.Color\ getColor()
+comment3.text=\r\n\ @return\ el\ color\ del\ Thing\r\n
+comment4.params=
+comment4.target=boolean\ is()
+comment4.text=\r\n\ verificador\ de\ que\ las\ acciones\ si\ se\ hicieron\ correctamente\r\n\ @return\ boolean\ true\r\n
+numComments=5

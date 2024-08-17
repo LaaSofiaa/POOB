@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Multicolor
+comment0.text=\r\n\ Clase\ Multicolor\ donde\ genera\ flores\ multicolores\ en\ diferentes\ espacios\ del\ garden\r\n\ \r\n\ @author\ Sofia\ Gil,\ Santiago\ Gualdron\ \r\n\ @version\ 1.0\r\n
+comment1.params=garden\ row\ column
+comment1.target=Multicolor(Garden,\ int,\ int)
+comment1.text=\r\n\ Create\ a\ new\ multicolor\ (row,\ column)\ in\ the\ garden.\r\n\ Every\ new\ multicolor\ is\ going\ to\ be\ alive\ in\ the\ following\ state.\r\n\ @param\ garden\ donde\ se\ va\ a\ pintar\ la\ flor\r\n\ @param\ row\ del\ garden\r\n\ @param\ column\ del\ garden\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ indica\ como\ actua\ la\ flor\ multicolor\ cada\ vez\ que\ hay\ un\ Tic-tac\r\n
+comment3.params=
+comment3.target=void\ move()
+comment3.text=\r\n\ la\ planta\ multicolor\ se\ mueve\ hacia\ la\ direccion\ del\ Tree\ mas\ cercano\ que\ tenga\r\n
+comment4.params=
+comment4.target=java.awt.Color\ getRandomColor()
+comment4.text=\r\n\ Metodo\ para\ obtener\ un\ color\ aleatorio\r\n\ @return\ Color\ un\ color\ aleatorio.\r\n
+numComments=5

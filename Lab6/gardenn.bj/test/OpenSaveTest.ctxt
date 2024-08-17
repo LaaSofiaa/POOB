@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=OpenSaveTest
+comment0.text=\r\n\ The\ test\ class\ OpenSaveTest.\r\n\r\n\ @author\ \ Santiago\ Gualdron-Sofia\ Gil\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=void\ shouldOpen00Archivo()
+comment10.params=
+comment10.target=void\ should2Open01Archivo()
+comment2.params=
+comment2.target=void\ should1Open00Archivo()
+comment3.params=
+comment3.target=void\ shouldSave00Archivo()
+comment4.params=
+comment4.target=void\ should1Save00Archivo()
+comment5.params=
+comment5.target=void\ shouldSave01Archivo()
+comment6.params=
+comment6.target=void\ shoul2Save01Archivo()
+comment7.params=
+comment7.target=void\ should1Save01Archivo()
+comment8.params=
+comment8.target=void\ shouldOpen01Archivo()
+comment9.params=
+comment9.target=void\ should1Open01Archivo()
+numComments=11

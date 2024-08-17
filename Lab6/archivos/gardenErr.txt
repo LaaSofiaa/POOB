@@ -1,0 +1,4 @@
+Flower 10 10
+Carnivorous 10 ja
+Flower ja 15
+28 18 17

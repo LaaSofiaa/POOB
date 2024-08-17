@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CannibalTest
+comment0.text=\r\n\ The\ test\ class\ CannibalTest.\r\n\r\n\ @author\ \ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ testConstructor()
+comment2.params=
+comment2.target=void\ testMakeVisibleAndInvisible()
+comment3.params=
+comment3.target=void\ testChangeSize()
+comment4.params=
+comment4.target=void\ testChangeColor()
+comment5.params=
+comment5.target=void\ testMoveTo()
+comment6.params=
+comment6.target=void\ testRotate()
+numComments=7

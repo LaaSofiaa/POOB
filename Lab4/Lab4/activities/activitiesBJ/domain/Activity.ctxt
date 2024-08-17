@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Activity
+comment0.text=\r\n\ Clase\ abstracta\ que\ representa\ una\ actividad\ en\ un\ proyecto.\r\n\ Define\ m\u00E9todos\ abstractos\ para\ obtener\ informaci\u00F3n\ sobre\ la\ actividad.\r\n
+comment1.params=name\ cost
+comment1.target=Activity(java.lang.String,\ java.lang.Integer)
+comment1.text=\r\n\ Constructor\ para\ crear\ una\ actividad\ con\ nombre\ y\ costo.\r\n\ @param\ name\ Nombre\ de\ la\ actividad.\r\n\ @param\ cost\ Costo\ de\ la\ actividad.\r\n
+comment2.params=
+comment2.target=java.lang.String\ name()
+comment2.text=\r\n\ Obtiene\ el\ nombre\ de\ la\ actividad.\r\n\ @return\ Nombre\ de\ la\ actividad.\r\n
+comment3.params=
+comment3.target=int\ time()
+comment3.text=\r\n\ Obtiene\ el\ tiempo\ de\ la\ actividad\ (m\u00E9todo\ abstracto).\r\n\ @return\ Tiempo\ de\ la\ actividad.\r\n\ @throws\ ProjectException\ Si\ el\ tiempo\ no\ est\u00E1\ disponible\ o\ hay\ un\ error.\r\n
+comment4.params=
+comment4.target=int\ cost()
+comment4.text=\r\n\ Obtiene\ el\ costo\ de\ la\ actividad\ (m\u00E9todo\ abstracto).\r\n\ @return\ Costo\ de\ la\ actividad.\r\n\ @throws\ ProjectException\ Si\ el\ costo\ no\ est\u00E1\ disponible\ o\ hay\ un\ error.\r\n
+comment5.params=
+comment5.target=java.lang.String\ data()
+comment5.text=\r\n\ Obtiene\ una\ representaci\u00F3n\ en\ cadena\ de\ la\ actividad\ (m\u00E9todo\ abstracto).\r\n\ @return\ Representaci\u00F3n\ en\ cadena\ de\ la\ actividad.\r\n\ @throws\ ProjectException\ Si\ los\ datos\ de\ la\ actividad\ no\ est\u00E1n\ completos.\r\n
+numComments=6
